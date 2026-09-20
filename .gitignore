@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+RAG/data/
+RAG/faiss_store/

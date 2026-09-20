@@ -8,4 +8,11 @@ langgraph
 langsmith
 langchain_tavily
 langchain-mcp-adapters
+langchain-core
 mcp
+pypdf
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
